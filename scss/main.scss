@@ -1,4 +1,8 @@
-@import '_zero_style.scss'; // <-- including a file to reset the style
+@import '_reset_style.scss'; // <-- including a file to reset the style
+@import '_icons-font.scss';
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;700&display=swap'); //font-family: 'Roboto', sans-serif;
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Condensed:wght@700&family=Roboto:wght@300;400;700&display=swap'); //font-family: 'Roboto Condensed', sans-serif;
+
 
 
 
